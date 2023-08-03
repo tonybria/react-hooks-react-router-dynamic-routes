@@ -21,3 +21,4 @@ function NavBar() {
 }
 
 export default NavBar;
+react-hooks-react-router-dynamic-routes
